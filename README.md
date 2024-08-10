@@ -54,7 +54,7 @@ Ensure you have the following environment variables configured:
 
 ## Directory Structure
 
-- `pages/index.tsx`: Main component for the profile page.
+- `page.tsx`: Main component for the profile page.
 - `public/`: Contains static assets like images.
 
 ## Customization
